@@ -13,7 +13,7 @@ body {
     .container {
        margin: auto;
        width: 50%;
-       
+
     }
 }
 
@@ -22,5 +22,8 @@ body {
         width: 100%;
     }
 
-    .container
+    .container {
+        border: 1px solid;
+        margin: 50% auto;
+    }
 }
