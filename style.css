@@ -9,7 +9,11 @@ body {
     box-sizing: border-box;
 }
 
-@media screen and (max-width: 1440px) {
+.attribution {
+    text-align: center;
+}
+
+@media (max-width: 1440px) {
     .container {
        margin: auto;
        width: 50%;
