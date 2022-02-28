@@ -9,6 +9,10 @@ body {
     box-sizing: border-box;
 }
 
-img {
-    width: 
+
+
+@media (min-width: 375px) {
+    img {
+        width: 50%;
+    }
 }
