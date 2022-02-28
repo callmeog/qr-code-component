@@ -25,8 +25,9 @@ body {
 
     .container {
         border: 1px solid;
-        margin: 50% auto;
+        margin: 30% auto;
         text-align: center;
         padding: 15px;
+        border-radius: 15px;
     }
 }
