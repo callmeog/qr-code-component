@@ -9,12 +9,18 @@ body {
     box-sizing: border-box;
 }
 
-@media (max-width: 1440) {
-    
+@media screen and (max-width: 1440px) {
+    .container {
+       margin: auto;
+       width: 50%;
+       
+    }
 }
 
 @media (min-width: 375px) {
     img {
-        width: 50%;
+        width: 100%;
     }
+
+    .container
 }
