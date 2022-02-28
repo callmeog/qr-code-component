@@ -9,7 +9,9 @@ body {
     box-sizing: border-box;
 }
 
-
+@media (max-width: 1440) {
+    
+}
 
 @media (min-width: 375px) {
     img {
