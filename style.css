@@ -10,9 +10,7 @@ body {
     box-sizing: border-box;
 }
 
-.container {
-    width: 230px
-}
+
 
 .attribute {
     font-size: 11px;
@@ -22,6 +20,7 @@ body {
 .para-one {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
+
 }
 
 .para-two {
@@ -29,7 +28,7 @@ body {
     font-weight: 400;
 }
 
-@media (min-width: 375px) and (max-width: 1440px) {
+@media screen and (max-width: 375px){
     img {
         width: 100%;
         border-radius: 7px;
@@ -41,6 +40,19 @@ body {
         text-align: center;
         padding: 15px;
         border-radius: 15px;
+        width: 300px;
+
     }
 
+}
+
+@media screen and (max-width: 1440px) {
+    img {
+        width: 100%;
+    }
+
+    .container {
+        width: 200px;
+        margin: 11% auto;
+    }
 }
