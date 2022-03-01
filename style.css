@@ -25,7 +25,8 @@ body {
 }
 
 .para-two {
-    color:hsl(220, 15%, 55%)
+    color:hsl(220, 15%, 55%);
+    font-weight: 400;
 }
 
 @media (min-width: 375px) and (max-width: 1440px) {
