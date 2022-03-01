@@ -12,9 +12,9 @@ body {
 
 
 
-.attribute {
+.attribution {
     font-size: 11px;
-    align-items: center;
+    text-align: center;
 }
 
 .para-one {
@@ -54,5 +54,7 @@ body {
     .container {
         width: 200px;
         margin: 11% auto;
+        background: white;
     }
+
 }
