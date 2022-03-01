@@ -9,17 +9,8 @@ body {
     box-sizing: border-box;
 }
 
-.attribution {
-    text-align: center;
-}
-
-@media (max-width: 1440px) {
-
-    .container {
-        margin: 50% auto;
-       width: 50%;
-
-    }
+.container {
+    width: 350px
 }
 
 
@@ -31,9 +22,10 @@ body {
 
     .container {
         border: 1px solid;
-        margin: 30% auto;
+        margin: 10% auto;
         text-align: center;
         padding: 15px;
         border-radius: 15px;
     }
+
 }
