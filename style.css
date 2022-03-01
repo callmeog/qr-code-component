@@ -20,7 +20,8 @@ body {
 }
 
 .para-one {
-    color: hsl(218, 44%, 22%)
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
 }
 
 .para-two {
