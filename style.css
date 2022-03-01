@@ -13,6 +13,10 @@ body {
     width: 350px
 }
 
+.attribute {
+    font-size: 11px;
+}
+
 
 @media (min-width: 375px) {
     img {
