@@ -58,6 +58,7 @@ body {
         padding: 16px;
         text-align: center;
         width: 244px;
+        border-radius: 15px;
     }
 
 }
