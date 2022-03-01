@@ -36,12 +36,11 @@ body {
 
     .container {
         background: white;
-        margin: 10% auto;
+        margin: 19% auto;
         text-align: center;
         padding: 15px;
         border-radius: 15px;
-        width: 300px;
-
+        width: 150px
     }
 
 }
@@ -53,8 +52,7 @@ body {
     }
 
     .container {
-        width: 200px;
-        margin: 11% auto;
+        margin: 19% auto;
         background: white;
         padding: 16px;
         text-align: center;
