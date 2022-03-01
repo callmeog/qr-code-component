@@ -1,1 +1,1 @@
-# frontendmentor-challenges
+# qr-code-component
