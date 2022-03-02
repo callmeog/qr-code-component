@@ -43,21 +43,18 @@ main{
   margin-bottom: 1rem;
 }
 
-.para-one {
+.heading {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
     font-size: 18px;
 }
 
-.para-two {
+.sub-heading {
     color:hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 14px;
 }
 
-
-
-/* try to follow the order of elements on the screen, attribution is at bottom so its css should be in bottom too. (not a rule but my personal opinion, a style that I follow) */
 
 .attribution {
     font-size: 15px;
