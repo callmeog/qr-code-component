@@ -6,19 +6,18 @@
   padding: 0;
   box-sizing: border-box;
 }
-/*
-try to use colors and fonts from this root. like this
+
+
 :root{
   --background-light-blue: hsl(212, 45%, 89%);
 }
- */
+
 
 
 body {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
-    /* background: var(--background-light-blue);  use it like this*/
-    background:  hsl(212, 45%, 89%);
+    background: var(--background-light-blue);
 }
 
 
