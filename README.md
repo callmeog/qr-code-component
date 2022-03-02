@@ -40,11 +40,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Building this project gave me more insite of how media queries work and how to center anything on the page with a simple snippet of css and it depends how you want to center it by specifying the %.
 
-```
+
 .container {
     margin: 19% auto;
 }
-```
+
 
 ### Continued development
 
@@ -59,3 +59,10 @@ I think i'm happy with what I came up with but, I would like to make fit on mobi
 
 - Frontend Mentor - [@callmeog01](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@callmeog01](https://www.twitter.com/yourusername)
+
+## Acknowledgment
+
+- Thanks to [vcodey](https://github.com/v-codey)
+- And [Deniel Den](https://www.frontendmentor.io/profile/denielden)
+
+For their support 
