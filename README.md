@@ -69,7 +69,7 @@ main{
 
 ### Continued development
 
-I think i'm happy with what I came up with but, I would like to make fit on mobile.
+Some useful addition has been made to make it look like the original design.
 
 ### Useful resources
 
