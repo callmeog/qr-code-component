@@ -22,7 +22,7 @@ body {
 }
 
 
-/* use flex in body or main- it makes designing easier */
+
 main{
   display: flex;
   align-items: center;
@@ -30,8 +30,14 @@ main{
   min-height: 100vh;
 }
 
+.container {
+    background: white;
+    text-align: center;
+    border-radius: 1rem;
+    padding: 16px;
+    width: 300px;
+}
 
-/* added css for the image */
 .qr-img{
   width: 100%;
   border-radius: 1rem;
@@ -51,13 +57,6 @@ main{
 }
 
 
-.container {
-    background: white;
-    text-align: center;
-    border-radius: 1rem;
-    padding: 16px;
-    width: 300px;
-}
 
 /* try to follow the order of elements on the screen, attribution is at bottom so its css should be in bottom too. (not a rule but my personal opinion, a style that I follow) */
 
@@ -83,26 +82,3 @@ a {
     }
 
 }
-
-/* in this challenge dont use two media queries there is min-width of 375px for mobile size above that there is no instructions to change the design.  */
-
-
-/* @media screen and (max-width: 1440px) {
-    img {
-        width: 100%;
-        border-radius: 7px;
-    }
-
-    .container {
-        padding: 16px;
-        width: 254px;
-
-    }
-
-} */
-
-
-
-
-
-/* if you are reading this that means you have reviewed the changes I have not done everything for you just some important changes other than this there are lot of things you need to do. Keep up the good work you will learn a lot by doing (like i am still learning). happy coding*/
