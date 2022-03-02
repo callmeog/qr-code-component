@@ -1,20 +1,41 @@
+/* universal selector should be on top */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*
+try to use colors and fonts from this root. like this
+:root{
+  --background-light-blue: hsl(212, 45%, 89%);
+}
+ */
+
+
 body {
-    padding: 0;
-    margin: 0;
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
-    background:  hsl(212, 45%, 89%)
-}
-
-*,*::before, *::after {
-    box-sizing: border-box;
+    /* background: var(--background-light-blue);  use it like this*/
+    background:  hsl(212, 45%, 89%);
 }
 
 
+/* use flex in body or main- it makes designing easier */
+/*{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+} */
 
-.attribution {
-    font-size: 15px;
-    text-align: center;
+
+/* added css for the image */
+.qr-img{
+  width: 100%;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
 }
 
 .para-one {
@@ -29,18 +50,29 @@ body {
     font-size: 14px;
 }
 
-a {
-    color:hsl(218, 44%, 22%)
-}
 
 .container {
     background: white;
     text-align: center;
-    border-radius: 15px;
+    border-radius: 1rem;
     margin: 17% auto;
+    padding: 16px;
+    width: 300px;
 }
 
-@media screen and (max-width: 375px){
+/* try to follow the order of elements on the screen, attribution is at bottom so its css should be in bottom too. (not a rule but my personal opinion, a style that I follow) */
+
+.attribution {
+    font-size: 15px;
+    text-align: center;
+}
+
+a {
+    color:hsl(218, 44%, 22%)
+}
+
+
+@media screen and (max-width: 475px){
     img {
         width: 100%;
         border-radius: 7px;
@@ -53,7 +85,10 @@ a {
 
 }
 
-@media screen and (max-width: 1440px) {
+/* in this challenge dont use two media queries there is min-width of 375px for mobile size above that there is no instructions to change the design.  */
+
+
+/* @media screen and (max-width: 1440px) {
     img {
         width: 100%;
         border-radius: 7px;
@@ -62,8 +97,13 @@ a {
     .container {
         padding: 16px;
         width: 254px;
-        
+
     }
 
-}
+} */
 
+
+
+
+
+/* if you are reading this that means you have reviewed the changes I have not done everything for you just some important changes other than this there are lot of things you need to do. Keep up the good work you will learn a lot by doing (like i am still learning). happy coding*/
