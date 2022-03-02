@@ -14,14 +14,24 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
+## Overview
+
 ### Screenshot
 
 ![](images/qr-code.png)
 
 ### Links
 
- Solution URL: 
- [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: 
+[Frontend Mentor](https://your-solution-url.com)
 
 - Live Site URL: 
 [Github](https://callmeog01.github.io/qr-code-component/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile-first workflow
