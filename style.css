@@ -13,21 +13,25 @@ body {
 
 
 .attribution {
-    font-size: 11px;
+    font-size: 15px;
     text-align: center;
 }
 
 .para-one {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
-    font-size: 15px;
+    font-size: 18px;
 
 }
 
 .para-two {
     color:hsl(220, 15%, 55%);
     font-weight: 400;
-    font-size: 15px;
+    font-size: 14px;
+}
+
+a {
+    color:hsl(218, 44%, 22%)
 }
 
 @media screen and (max-width: 375px){
@@ -58,7 +62,7 @@ body {
         background: white;
         padding: 16px;
         text-align: center;
-        width: 270px;
+        width: 254px;
         border-radius: 15px;
     }
 
