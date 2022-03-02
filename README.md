@@ -4,4 +4,4 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/callmeog01/qr-code-component)
+- Solution URL: [https://github.com/callmeog01/qr-code-component]
