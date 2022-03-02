@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: 
-[Frontend Mentor](https://your-solution-url.com)
+[Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-qrcodecomponent-using-html-css-and-media-queries-65qqki1tq)
 
 - Live Site URL: 
 [Github](https://callmeog01.github.io/qr-code-component/)
