@@ -50,12 +50,15 @@ On finishing this project i got some useful feedback from fellow developers who 
   padding: 0;
   box-sizing: border-box;
 }
+``
 
-
+``
 :root{
   --background-light-blue: hsl(212, 45%, 89%);
 }
+``
 
+``
 main{
   display: flex;
   align-items: center;
