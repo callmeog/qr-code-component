@@ -78,4 +78,12 @@ a {
         width: 18rem;
     }
 
+    .heading {
+        font-size: 19px;
+    }
+    
+    .sub-heading {
+        font-size: 17px;
+    }
+
 }
