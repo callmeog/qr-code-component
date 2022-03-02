@@ -38,4 +38,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Building this project gave me more insite of how media queries work and how to center anything on the page with a simple snippet of css
+Building this project gave me more insite of how media queries work and how to center anything on the page with a simple snippet of css and it depends how you want to center it by specifying the %.
+
+```
+.container {
+    margin: 19% auto;
+}
+```
