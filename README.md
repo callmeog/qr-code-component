@@ -38,13 +38,31 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Building this project gave me more insite of how media queries work and how to center anything on the page with a simple snippet of css and it depends how you want to center it by specifying the %.
+On finishing this project i got some useful feedback from fellow developers who helped me in making sure that the site accessibility is done right. I also made use of flexbox and reduced the media queries to one.
 
+- Below are some of the code implemented
 
-.container {
-    margin: 19% auto;
+``
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+
+:root{
+  --background-light-blue: hsl(212, 45%, 89%);
+}
+
+main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+``
 
 ### Continued development
 
