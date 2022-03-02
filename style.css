@@ -34,7 +34,7 @@ main{
     text-align: center;
     border-radius: 1rem;
     padding: 16px;
-    width: 17rem;
+    width: 15rem;
     padding: 1rem;
 }
 
@@ -47,7 +47,8 @@ main{
 .heading {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
-    font-size: 18px;
+    font-size: 16px;
+    margin-bottom: 1rem;
 }
 
 .sub-heading {
