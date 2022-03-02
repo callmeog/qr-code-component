@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Mobile-first workflow
+- Flexbox
 
 ### What I learned
 
@@ -42,7 +42,7 @@ On finishing this project i got some useful feedback from fellow developers who 
 
 - Below are some of the code implemented
 
-``
+```css
 *,
 *::before,
 *::after {
@@ -50,22 +50,22 @@ On finishing this project i got some useful feedback from fellow developers who 
   padding: 0;
   box-sizing: border-box;
 }
-``
+```
 
-``
+```css
 :root{
   --background-light-blue: hsl(212, 45%, 89%);
 }
-``
+```
 
-``
+```css
 main{
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
 }
-``
+```
 
 ### Continued development
 
