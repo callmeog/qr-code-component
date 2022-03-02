@@ -54,3 +54,9 @@ I think i'm happy with what I came up with but, I would like to make fit on mobi
 
 - [W3schools](https://www.w3schools.com/css/css3_mediaqueries_ex.asp) - This helped me for the media queries and gave me better understanding. Its one of my go to resources
 - [Dev.to](https://devdocs.io/css/media_queries) - This is an amazing article which helped me finally understand better. I'd recommend it to anyone still learning this concept.
+
+## Author
+
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [callmeog01](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@callmeog01](https://www.twitter.com/yourusername)
