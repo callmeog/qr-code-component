@@ -45,3 +45,7 @@ Building this project gave me more insite of how media queries work and how to c
     margin: 19% auto;
 }
 ```
+
+### Continued development
+
+I think i'm happy with what I came up with but, I would like to make fit on mobile 
