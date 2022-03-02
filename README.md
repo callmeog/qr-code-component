@@ -1,1 +1,3 @@
-# qr-code-component
+### Screenshot
+
+![](images/qr-code.png)
