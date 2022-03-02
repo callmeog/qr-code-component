@@ -48,4 +48,9 @@ Building this project gave me more insite of how media queries work and how to c
 
 ### Continued development
 
-I think i'm happy with what I came up with but, I would like to make fit on mobile 
+I think i'm happy with what I came up with but, I would like to make fit on mobile.
+
+### Useful resources
+
+- [W3schools](https://www.w3schools.com/css/css3_mediaqueries_ex.asp) - This helped me for the media queries and gave me better understanding. Its one of my go to resources
+- [Dev.to](https://devdocs.io/css/media_queries) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
