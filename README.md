@@ -35,3 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
+
+### What I learned
+
+Building this project gave me more insite of how media queries work and how to center anything on the page with a simple snippet of css
