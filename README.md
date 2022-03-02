@@ -57,6 +57,5 @@ I think i'm happy with what I came up with but, I would like to make fit on mobi
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [callmeog01](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@callmeog01](https://www.twitter.com/yourusername)
